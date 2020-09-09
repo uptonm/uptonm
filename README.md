@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi there I'm Mike 👋
+I'm a full stack developer currently working for Infogain @ Facebook.
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 
 <!--
 **uptonm/uptonm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
