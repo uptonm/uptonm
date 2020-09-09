@@ -74,9 +74,5 @@ C                        3 repos             █░░░░░░░░░░�
 
 <!--END_SECTION:waka-->
 
-
-<!--
-**uptonm/uptonm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 ##### &nbsp;
 [![trophy](https://github-profile-trophy.vercel.app/?username=uptonm)](https://github.com/ryo-ma/github-profile-trophy)
