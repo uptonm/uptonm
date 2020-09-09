@@ -75,4 +75,4 @@ C                        3 repos             █░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 ##### &nbsp;
-[![trophy](https://github-profile-trophy.vercel.app/?username=uptonm)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=uptonm&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
