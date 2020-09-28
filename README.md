@@ -4,7 +4,7 @@ I'm a full stack developer currently working for Infogain @ Facebook.
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-7.1%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.9%20million%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
@@ -21,8 +21,8 @@ I'm a full stack developer currently working for Infogain @ Facebook.
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning    137 commits    █████░░░░░░░░░░░░░░░░░░░░   21.54% 
-🌆 Daytime    335 commits    █████████████░░░░░░░░░░░░   52.67% 
+🌞 Morning    136 commits    █████░░░░░░░░░░░░░░░░░░░░   21.38% 
+🌆 Daytime    336 commits    █████████████░░░░░░░░░░░░   52.83% 
 🌃 Evening    149 commits    █████░░░░░░░░░░░░░░░░░░░░   23.43% 
 🌙 Night      15 commits     ░░░░░░░░░░░░░░░░░░░░░░░░░   2.36%
 
@@ -30,9 +30,9 @@ I'm a full stack developer currently working for Infogain @ Facebook.
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday       104 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.35% 
-Tuesday      55 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.65% 
-Wednesday    110 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.3% 
+Monday       106 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.67% 
+Tuesday      54 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.49% 
+Wednesday    109 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.14% 
 Thursday     103 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.19% 
 Friday       98 commits     ███░░░░░░░░░░░░░░░░░░░░░░   15.41% 
 Saturday     100 commits    ████░░░░░░░░░░░░░░░░░░░░░   15.72% 
