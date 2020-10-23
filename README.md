@@ -4,7 +4,7 @@ I'm a full stack developer currently working for Infogain @ Facebook.
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-8.3%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.5%20million%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
@@ -32,9 +32,9 @@ I'm a full stack developer currently working for Infogain @ Facebook.
 ```text
 Monday       75 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.53% 
 Tuesday      47 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.11% 
-Wednesday    67 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.98% 
+Wednesday    66 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.79% 
 Thursday     99 commits     ████░░░░░░░░░░░░░░░░░░░░░   19.19% 
-Friday       86 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.67% 
+Friday       87 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.86% 
 Saturday     90 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.44% 
 Sunday       52 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.08%
 
