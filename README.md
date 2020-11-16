@@ -4,7 +4,7 @@ I'm a full stack developer currently working for Infogain @ Facebook.
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-8.3%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.3%20million%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
@@ -21,8 +21,8 @@ I'm a full stack developer currently working for Infogain @ Facebook.
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning    70 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.71% 
-🌆 Daytime    229 commits    █████████████░░░░░░░░░░░░   54.65% 
+🌞 Morning    71 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.95% 
+🌆 Daytime    228 commits    █████████████░░░░░░░░░░░░   54.42% 
 🌃 Evening    105 commits    ██████░░░░░░░░░░░░░░░░░░░   25.06% 
 🌙 Night      15 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   3.58%
 
