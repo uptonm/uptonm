@@ -8,7 +8,7 @@ I'm a full stack developer currently working for Infogain @ Facebook.
 
 **🐱 My Github Data** 
 
-> 🏆 69 Contributions in the Year 2021
+> 🏆 70 Contributions in the Year 2021
  > 
 > 📦 0 Bytes Used in Github's Storage 
  > 
