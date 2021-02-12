@@ -8,7 +8,7 @@ I'm a full stack developer currently working for Infogain @ Facebook.
 
 **🐱 My Github Data** 
 
-> 🏆 75 Contributions in the Year 2021
+> 🏆 77 Contributions in the Year 2021
  > 
 > 📦 0 Bytes Used in Github's Storage 
  > 
@@ -21,8 +21,8 @@ I'm a full stack developer currently working for Infogain @ Facebook.
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning    59 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.04% 
-🌆 Daytime    166 commits    ████████████░░░░░░░░░░░░░   50.76% 
+🌞 Morning    57 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.43% 
+🌆 Daytime    168 commits    ████████████░░░░░░░░░░░░░   51.38% 
 🌃 Evening    96 commits     ███████░░░░░░░░░░░░░░░░░░   29.36% 
 🌙 Night      6 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   1.83%
 
