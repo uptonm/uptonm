@@ -33,8 +33,8 @@ I'm a full stack developer currently working for Infogain @ Facebook.
 Monday       38 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.62% 
 Tuesday      40 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.23% 
 Wednesday    46 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.07% 
-Thursday     51 commits     ████░░░░░░░░░░░░░░░░░░░░░   15.6% 
-Friday       51 commits     ████░░░░░░░░░░░░░░░░░░░░░   15.6% 
+Thursday     50 commits     ███░░░░░░░░░░░░░░░░░░░░░░   15.29% 
+Friday       52 commits     ████░░░░░░░░░░░░░░░░░░░░░   15.9% 
 Saturday     67 commits     █████░░░░░░░░░░░░░░░░░░░░   20.49% 
 Sunday       34 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.4%
 
