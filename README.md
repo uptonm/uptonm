@@ -4,7 +4,7 @@ I'm a full stack developer currently working for Infogain @ Facebook.
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.2%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.3%20million%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
@@ -14,7 +14,7 @@ I'm a full stack developer currently working for Infogain @ Facebook.
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 93 Public Repositories 
+> 📜 94 Public Repositories 
  > 
 > 🔑 0 Private Repositories  
  > 
@@ -62,11 +62,11 @@ DataGrip                 3 hrs 27 mins       █░░░░░░░░░░�
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               43 repos            █████████████░░░░░░░░░░░░   53.09% 
-TypeScript               14 repos            ████░░░░░░░░░░░░░░░░░░░░░   17.28% 
-Java                     4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   4.94% 
-C                        4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   4.94% 
-HTML                     3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   3.7%
+JavaScript               43 repos            █████████████░░░░░░░░░░░░   52.44% 
+TypeScript               15 repos            ████░░░░░░░░░░░░░░░░░░░░░   18.29% 
+Java                     4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   4.88% 
+C                        4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   4.88% 
+HTML                     3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   3.66%
 
 ```
 
