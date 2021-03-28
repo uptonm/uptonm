@@ -8,13 +8,13 @@ I'm a full stack developer currently working for Infogain @ Facebook.
 
 **🐱 My Github Data** 
 
-> 🏆 368 Contributions in the Year 2021
+> 🏆 375 Contributions in the Year 2021
  > 
 > 📦 0 Bytes Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 94 Public Repositories 
+> 📜 95 Public Repositories 
  > 
 > 🔑 0 Private Repositories  
  > 
