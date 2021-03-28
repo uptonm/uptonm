@@ -14,7 +14,7 @@ I'm a full stack developer currently working for Infogain @ Facebook.
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 95 Public Repositories 
+> 📜 94 Public Repositories 
  > 
 > 🔑 0 Private Repositories  
  > 
